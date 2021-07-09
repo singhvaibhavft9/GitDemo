@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117" started-at="2021-07-09T04:51:30Z" finished-at="2021-07-09T04:51:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117" started-at="2021-07-09T04:51:30Z" finished-at="2021-07-09T04:51:31Z">
+      <class name="quickacadamy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:quickacadamy.MavenJava.SeleniumTest@271053e1]" name="BrowserAutomation" duration-ms="16" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:quickacadamy.MavenJava.SeleniumTest@271053e1]" name="ElementsUi" duration-ms="2" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- quickacadamy.MavenJava.SeleniumTest -->
+      <class name="quickacadamy.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:quickacadamy.MavenJava.RESTAPITest@589838eb]" name="DeleteTwitter" duration-ms="2" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:quickacadamy.MavenJava.RESTAPITest@589838eb]" name="PostJira" duration-ms="2" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- quickacadamy.MavenJava.RESTAPITest -->
+      <class name="quickacadamy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:quickacadamy.MavenJava.AppiumTest@42dafa95]" name="IOSApps" duration-ms="2" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:quickacadamy.MavenJava.AppiumTest@42dafa95]" name="NativeAppAndroid" duration-ms="3" started-at="2021-07-09T04:51:31Z" finished-at="2021-07-09T04:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- quickacadamy.MavenJava.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
